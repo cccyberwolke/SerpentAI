@@ -4,15 +4,12 @@
 __pycache__/
 *.py[cod]
 
-.venv
-
 .ipynb_checkpoints/
 .pytest_cache/
 
 .python-version
 
 plugins/
-tools
 
 *.egg-info
 
@@ -21,4 +18,3 @@ dist/
 key.priv
 key.pub
 node.pid
-poetry.lock
